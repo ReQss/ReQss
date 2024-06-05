@@ -8,6 +8,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ReQss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReQss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<svg width="320" height="150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#282a36" />
+  <text x="10" y="20" fill="#f8f8f2" font-family="Verdana" font-size="20">Top Languages</text>
+  <text x="10" y="50" fill="#6272a4" font-family="Verdana" font-size="15">Python</text>
+  <text x="10" y="70" fill="#6272a4" font-family="Verdana" font-size="15">JavaScript</text>
+  <text x="10" y="90" fill="#6272a4" font-family="Verdana" font-size="15">HTML</text>
+  <text x="10" y="110" fill="#6272a4" font-family="Verdana" font-size="15">CSS</text>
+  <text x="10" y="130" fill="#6272a4" font-family="Verdana" font-size="15">SQL</text>
+</svg>
 
 ###
 

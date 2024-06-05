@@ -11,10 +11,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ReQss/ReQss/output/snake.svg" alt="Snake animation" />
-</div>
-
+![snake gif](https://github.com/ReQss/ReQss/blob/output/github-contribution-grid-snake.gif)
 ###
 
 <div align="center">

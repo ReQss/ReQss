@@ -10,10 +10,11 @@
 ###
 
 <br clear="both">
-##Graph
-![snake gif](https://github.com/ReQss/ReQss/blob/output/github-contribution-grid-snake.gif)
-###
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <div align="center">
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reqss&theme=onestar&no-frame=true&no-bg=true&margin-w=15" alt="reqss" /></a>

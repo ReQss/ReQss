@@ -11,6 +11,16 @@
 
 ###
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReQss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="custom_stats.svg" height="150" alt="languages graph"  />
+</div>
+
+
+###
+
+
 <br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
